@@ -237,3 +237,10 @@ hr.small {
 footer {
     padding: 100px 0;
 }
+
+/* Logo */
+
+.logo {
+    height: 130px;
+    width: 130px;
+}
