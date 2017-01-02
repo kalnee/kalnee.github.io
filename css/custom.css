@@ -1,0 +1,20 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background: #0c1b21;
+    background: -webkit-linear-gradient(#1b3a46, #0c1b21);
+    background: -moz-linear-gradient(#1b3a46, #0c1b21);
+    background: linear-gradient(#1b3a46, #0c1b21);
+}
+
+#outer {
+    text-align: center;
+}
+
+#outer img {
+    margin-top: 40px;
+}
